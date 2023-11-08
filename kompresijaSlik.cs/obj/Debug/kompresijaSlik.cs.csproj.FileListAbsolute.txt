@@ -1,0 +1,7 @@
+O:\FAKS\3letnik\1semester\RacVecpred\KompresijaZaporednihVrednosti\kompresijaZVrednosti\kompresija3\kompresijaSlik.cs\kompresijaSlik.cs\bin\Debug\kompresijaSlik.cs.exe.config
+O:\FAKS\3letnik\1semester\RacVecpred\KompresijaZaporednihVrednosti\kompresijaZVrednosti\kompresija3\kompresijaSlik.cs\kompresijaSlik.cs\bin\Debug\kompresijaSlik.cs.exe
+O:\FAKS\3letnik\1semester\RacVecpred\KompresijaZaporednihVrednosti\kompresijaZVrednosti\kompresija3\kompresijaSlik.cs\kompresijaSlik.cs\bin\Debug\kompresijaSlik.cs.pdb
+O:\FAKS\3letnik\1semester\RacVecpred\KompresijaZaporednihVrednosti\kompresijaZVrednosti\kompresija3\kompresijaSlik.cs\kompresijaSlik.cs\obj\Debug\kompresijaSlik.cs.csproj.AssemblyReference.cache
+O:\FAKS\3letnik\1semester\RacVecpred\KompresijaZaporednihVrednosti\kompresijaZVrednosti\kompresija3\kompresijaSlik.cs\kompresijaSlik.cs\obj\Debug\kompresijaSlik.cs.csproj.CoreCompileInputs.cache
+O:\FAKS\3letnik\1semester\RacVecpred\KompresijaZaporednihVrednosti\kompresijaZVrednosti\kompresija3\kompresijaSlik.cs\kompresijaSlik.cs\obj\Debug\kompresijaSlik.cs.exe
+O:\FAKS\3letnik\1semester\RacVecpred\KompresijaZaporednihVrednosti\kompresijaZVrednosti\kompresija3\kompresijaSlik.cs\kompresijaSlik.cs\obj\Debug\kompresijaSlik.cs.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kompresijaSlik.cs", "kompresijaSlik.cs\kompresijaSlik.cs.csproj", "{CEB9BFF6-A79C-4D6D-92DF-C62D987B424B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEB9BFF6-A79C-4D6D-92DF-C62D987B424B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEB9BFF6-A79C-4D6D-92DF-C62D987B424B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEB9BFF6-A79C-4D6D-92DF-C62D987B424B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEB9BFF6-A79C-4D6D-92DF-C62D987B424B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {917F475F-B674-4453-834E-5A346CBAA13A}
+	EndGlobalSection
+EndGlobal
